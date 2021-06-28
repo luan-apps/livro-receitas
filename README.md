@@ -3,7 +3,3 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 - Strogonoff de frango
-- Pavê
-- Torta de Limão
-- Lasanha
-- Baião de Dois
